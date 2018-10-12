@@ -1,6 +1,8 @@
 # MemeMe
 An app that enables a user to take a picture, and add text at the top and bottom to form a meme, and share that meme on Facebook and Twitter and also by SMS or email. In this project, sent memes will appear in a tab view with two tabs: a table view and a collection view.
 
+<img width="296" alt="screenshot 2018-10-12 at 16 40 22" src="https://user-images.githubusercontent.com/28652344/46879539-3c507480-ce3e-11e8-936d-e066bb19acd4.png"> <img width="297" alt="screenshot 2018-10-12 at 16 40 39" src="https://user-images.githubusercontent.com/28652344/46879547-407c9200-ce3e-11e8-9dca-f475926b01aa.png"> <img width="296" alt="screenshot 2018-10-12 at 16 44 26" src="https://user-images.githubusercontent.com/28652344/46879553-44101900-ce3e-11e8-9709-4d97207d439a.png">
+
 ## Sent Memes View
 
 The sent memes view displays recently sent memes. It has a bottom toolbar with tabs that allow the user to toggle between viewing sent memes in a table and viewing them in a grid. The top navigation bar has a title that reads “Sent Memes” and an add button in the right corner displaying Apple’s stock “Add” icon.
